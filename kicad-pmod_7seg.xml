@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/matjaz/Kicad/kicad-pmod_7seg/kicad-pmod_7seg.kicad_sch</source>
-    <date>sre 20 dec 2023 18:47:16</date>
+    <date>pon 01 jan 2024 22:38:17</date>
     <tool>Eeschema 7.0.9-7.0.9~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -205,7 +205,7 @@
       <tstamps>7b738fc4-d30a-4d42-890d-8b7356eb7cf4</tstamps>
     </comp>
     <comp ref="R5">
-      <value>100</value>
+      <value>470</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -216,7 +216,7 @@
       <tstamps>24c4c875-ed9e-4aa9-a289-cf8dd2ccb1b9</tstamps>
     </comp>
     <comp ref="R6">
-      <value>100</value>
+      <value>470</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -227,7 +227,7 @@
       <tstamps>67a1bc66-8f84-4571-a1fa-b6819f1b5c6c</tstamps>
     </comp>
     <comp ref="R7">
-      <value>100</value>
+      <value>470</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -238,7 +238,7 @@
       <tstamps>f13f8de8-74b3-4405-b506-525a4cc6693e</tstamps>
     </comp>
     <comp ref="R8">
-      <value>100</value>
+      <value>470</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -249,7 +249,7 @@
       <tstamps>d23c3218-8ecf-4ad2-9e0b-b301742a136a</tstamps>
     </comp>
     <comp ref="R9">
-      <value>100</value>
+      <value>470</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -260,7 +260,7 @@
       <tstamps>4723f798-54ff-4068-8df5-6822b3489e61</tstamps>
     </comp>
     <comp ref="R10">
-      <value>100</value>
+      <value>470</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -271,7 +271,7 @@
       <tstamps>003beb02-c14e-4866-b45b-dd3b8391ca3b</tstamps>
     </comp>
     <comp ref="R11">
-      <value>100</value>
+      <value>470</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -282,7 +282,7 @@
       <tstamps>14eb410c-179b-43b8-ba78-d483baa703b3</tstamps>
     </comp>
     <comp ref="R12">
-      <value>1k</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -293,7 +293,7 @@
       <tstamps>4e6574ac-f2fa-4550-a127-bde8e4fdeec8</tstamps>
     </comp>
     <comp ref="R13">
-      <value>1k</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -304,7 +304,7 @@
       <tstamps>c82120ff-4377-4879-abfd-3844e802fd03</tstamps>
     </comp>
     <comp ref="R14">
-      <value>1k</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -315,7 +315,7 @@
       <tstamps>9502fa8a-67c5-492e-8c57-e938aba46ce8</tstamps>
     </comp>
     <comp ref="R15">
-      <value>1k</value>
+      <value>4k7</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -326,7 +326,7 @@
       <tstamps>c21dbbba-f9fb-4772-8956-7e1d3a0a0b12</tstamps>
     </comp>
     <comp ref="R16">
-      <value>100</value>
+      <value>470</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
